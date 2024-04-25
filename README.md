@@ -1,6 +1,6 @@
 # AngularServicesStandalone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
+A demo app for use with Pluralsight's Angular Services course.
 
 ## Development server
 
